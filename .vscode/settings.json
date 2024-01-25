@@ -1,0 +1,18 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/imran460/ros2_ws/build/my_py_pkg",
+        "/home/imran460/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/imran460/ros2_ws/install/my_cartographer/local/lib/python3.10/dist-packages",
+        "/home/imran460/micro_ros_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/imran460/ros2_ws/build/my_py_pkg",
+        "/home/imran460/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/imran460/ros2_ws/install/my_cartographer/local/lib/python3.10/dist-packages",
+        "/home/imran460/micro_ros_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
